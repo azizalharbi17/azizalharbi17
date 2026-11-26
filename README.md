@@ -13,7 +13,7 @@ How I work:
 - **Test, debug and iterate** against live data until the product holds up in production.
 - **Ship it.** Deploy and operate working applications on Vercel, Supabase, AWS and a Linux server.
 
-I'm growing toward **Applied AI Engineering** and **AI Solutions Engineering**: using AI systems to turn real-world problems into reliable, deployed software.
+I'm focused on building practical AI applications that solve real problems and work reliably in production.
 
 ---
 
